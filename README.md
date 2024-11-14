@@ -16,6 +16,7 @@
     동물들을 도울 수 있는 웹이 무었이 있는지 알 수 있는 웹입니다.
   </li>
 </ul>
+<br>
 
 ![image](https://github.com/user-attachments/assets/46c972dc-9a8b-4285-b7f0-d383bbc5a1b6)
 ![image](https://github.com/user-attachments/assets/f9c28f06-ca49-4d5e-ba77-4a7c057d26b2)
